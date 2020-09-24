@@ -1,0 +1,26 @@
+/* Styling for landing page */
+
+body {
+    padding-top: 56px;
+    background-color: blanchedalmond;
+}
+
+.jumbotron {
+    background: url("https://www.ortecfinance.com/-/media/project/ortec/shared/header-big/2019/header-web-melbourne.jpg?h=930&la=en&w=1920&hash=97366CF914B14934F9FCD983ED8CB3D89E1F944E") no-repeat center;
+}
+
+.state-header {
+    font-family: 'Sonsie One'; 
+    font-size: 40px; 
+    text-align: center; 
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.data-header {
+    font-family: 'Sonsie One'; 
+    font-size: 40px; 
+    text-align: center; 
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
