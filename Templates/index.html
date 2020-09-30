@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Job Posting Visualisation</title>
+   
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+      <link href="css/style.css" rel="stylesheet">
+      <link href='https://fonts.googleapis.com/css?family=Sonsie One' rel='stylesheet'>
+   
+   </head>
+   
+   <body>
+    <!-- Building the navigation bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Job Posting Visualisation</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" 
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+            aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                      <!-- Home button -->
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home 
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <!-- Tab that contains the map -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="map.html">Map</a>
+                    </li>
+                    <!-- Data tab -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="data.html">Data</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Jumbotron -->
+    <header class="jumbotron jumbotron-fluid">
+        <div class="container-fluid text-center"> 
+           <h1 class="display-3" style="font-family: 'Sonsie One'; color: black;">Visualising Job Vacancies</h1>
+           <!--p class="lead pb-4" style="color: black;">Using web scraping from one of the largest job posting websites
+               in Australia, <strong>Seek.</strong>
+           </p-->
+        </div>
+    </header>
+
+    <!-- Project description section -->
+    <div class="container-fluid" style="font-family: sans-serif;" id="about">
+        <div class="content" style ="text-align: center;">
+          <h2 class="center padding-64" style = " font-size: 36px;"><span class="tag">Where are Data Analyst openings located in Australia?</span></h5>
+          <p>Current job climate sees an uncertainty, so we plan to visualise Data Analyst job postings in the states of Australia. We are scraping one of the largest job vacancy websites available: Seek. We will utilise tools such as web scraping, storing in a database (MongoDB), and geo-mapping via Leaflet. The landing page will allow users to navigate through the drop-down menu for the states we are observing: NSW, VIC, QLD, SA, NT, WA, and TAS. These visualisations will be interactive.will be dynamic as it fetches data in real-time. 
+          </p>  
+           <p>Our goal is to see where this job is needed the most, whether it will indicate any trends or fluctuations in employment. </p>
+          <img src="https://jobs.mindtheproduct.com/wp-content/uploads/company_logos/2015/06/SEEK-Logo.png" style="width:100%;max-width:700px" class="w3-margin-top">
+        </div>
+      </div>
+
+    <!-- Footer section consisting of contributors -->
+      <footer class="py-3 bg-light">
+        <div class="container">
+           <p class="text-center" >Contributors: Ash Drayton | Baili Li | Benedict
+               Nathaniel | Dhanya Maheswaran | Vineet Goyal
+           </p>
+        </div>
+     </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+   </body>
+</html>

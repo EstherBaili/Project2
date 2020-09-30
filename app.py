@@ -19,14 +19,14 @@ mongo = PyMongo(app)
 
 @app.route("/")
 def index():
-    jobs = mongo.db.collection.find_one()
+    jobs = mongo.db.final_Job_df.find_one()
     return render_template("index.html")
 
 @app.route("/scrape")
 def scrape1():
-    #jobss = mongo.db.jobs 
+    final_Job_df = mongo.db.final_Job_df
     jobs_data = scrape.scrape()
-    mongo.db.collection.update({}, jobs_data, upsert=True)
+    final_Job_df.update({}, jobs_data, upsert=True)
     return jsonify(jobs_data)
 
 if __name__ == "__main__":

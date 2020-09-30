@@ -6,7 +6,12 @@ from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import time
 import math
+from collections import ChainMap
 
+import json
+
+# Google API Key
+from config import gkey
 
 # Defining scrape & dictionary
 def scrape():
@@ -19,9 +24,6 @@ def scrape():
 
     jobs_find_url ="https://www.seek.com.au/jobs/in-All-Australia?keywords=%22data%20%20analyst%22"
 
-    #try except to loop through buttons- if no end print (that's all the webpages moving on )
-    #nested loop start with looping through buttons and then- try except#and then try except
-    #start of with search sol meta- that will store each of the fields on each place, then the location and stuff have slightly weirder classes you need to understand
     browser.visit(jobs_find_url)
     jobs_html=browser.html  
 
@@ -49,6 +51,7 @@ def scrape():
     job_title1=[]
     job_company=[]
     x=range(1,number_pages+1)
+
     for n in x:
         seek_url=f"https://www.seek.com.au/jobs/in-All-Australia?keywords=%22data%20%20analyst%22&page={n}"
         browser.visit(seek_url)
@@ -60,7 +63,10 @@ def scrape():
         job_characteristics=all_text.find_all('span', class_="_3FrNV7v _3PZrylH E6m4BZb")
 
         
-        
+        #converting each of the elements to text 
+    
+        #modifying the job location element and tidying up this element
+
         for element in extra_class:
             element1=element.text
             if "location:" in element1:
@@ -69,7 +75,8 @@ def scrape():
         
         job_title=all_text.find_all('span', class_='_3FrNV7v _2IOW3OW HfVIlOd _2heRYaN E6m4BZb') 
         
-        
+        #editing both the job title and job characterstics
+
         for item in job_title:
             job1=item.text
             job_title1.append(job1)
@@ -80,6 +87,13 @@ def scrape():
                 company2=company1.lstrip('at ')
                 job_company.append(company2) 
         
+        for job_class in extra_class:
+            classification1=job_class.text
+            if "classification:" in classification1:
+                classification2=classification1.lstrip('classification: ')
+                job_classification.append(classification2) 
+    
+
         time.sleep(3)
 
         browser.quit()
