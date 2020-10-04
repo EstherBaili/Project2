@@ -1,0 +1,2895 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "":0,
+            "JobTitle":"Data Migration Analyst(s)",
+            "JobLocation":"Darwin",
+            "JobCompany":"MYtech Consulting Services",
+            "Search Engine":"MYtech Consulting Services Darwin"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               130.8430602,
+               -12.4648441
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":1,
+            "JobTitle":"Business Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"ANZ",
+            "Search Engine":"ANZ Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9617726,
+               -37.8165392
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":2,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Ethos BeathChapman",
+            "Search Engine":"Ethos BeathChapman Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2065104,
+               -33.8640033
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":3,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Talent Street",
+            "Search Engine":"Talent Street ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.0973561,
+               -35.3204843
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":4,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Recruitment Hive",
+            "Search Engine":"Recruitment Hive ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.2451144,
+               -35.3429461
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":5,
+            "JobTitle":"DIGITAL DATA  ANALYST",
+            "JobLocation":"Sydney",
+            "JobCompany":"Dymocks Retail",
+            "Search Engine":"Dymocks Retail Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2070535,
+               -33.8698189
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":6,
+            "JobTitle":"Data Analyst and Team Leader",
+            "JobLocation":"Sydney",
+            "JobCompany":"ManpowerGroup",
+            "Search Engine":"ManpowerGroup Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2036262,
+               -33.86392
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":7,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Whizdom",
+            "Search Engine":"Whizdom ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.0914853,
+               -35.2429284
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":8,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Calleo",
+            "Search Engine":"Calleo ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1293812,
+               -35.3150012
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":9,
+            "JobTitle":"Spatial Data Analyst/Developer",
+            "JobLocation":"Sydney",
+            "JobCompany":"Hays Information Technology",
+            "Search Engine":"Hays Information Technology Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.211688,
+               -33.865617
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":10,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Woolworths Group",
+            "Search Engine":"Woolworths Group Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.0277733,
+               -27.46853
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":11,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Redkite",
+            "Search Engine":"Redkite Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2088055,
+               -33.8864296
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":12,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Finite IT Recruitment Solutions",
+            "Search Engine":"Finite IT Recruitment Solutions ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.128529,
+               -35.2762871
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":13,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Modis",
+            "Search Engine":"Modis ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1334361,
+               -35.3128084
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":14,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"First Grade Recruitment",
+            "Search Engine":"First Grade Recruitment Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.917643,
+               -37.82283
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":15,
+            "JobTitle":"SAP Manufacturing Master Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Speller International",
+            "Search Engine":"Speller International Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.967938,
+               -37.799802
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":16,
+            "JobTitle":"Data Analyst - Salesforce & SAP",
+            "JobLocation":"Sydney",
+            "JobCompany":"Robert Walters",
+            "Search Engine":"Robert Walters Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.211319,
+               -33.864235
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":17,
+            "JobTitle":"Marketing and Data Analyst - Salesforce",
+            "JobLocation":"Sydney",
+            "JobCompany":"Morgan McKinley",
+            "Search Engine":"Morgan McKinley Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.204246,
+               -33.870053
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":18,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Techtronic Industries",
+            "Search Engine":"Techtronic Industries Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.136371,
+               -37.897164
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":19,
+            "JobTitle":"Senior Data Analyst (6 Month, Fixed Term Contract)",
+            "JobLocation":"Sydney",
+            "JobCompany":"Equifax Australia",
+            "Search Engine":"Equifax Australia Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2096067,
+               -33.8398465
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":20,
+            "JobTitle":"Junior Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Atos Australia",
+            "Search Engine":"Atos Australia Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2048271,
+               -33.8354089
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":21,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"REIV",
+            "Search Engine":"REIV Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.0599757,
+               -37.833582
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":22,
+            "JobTitle":"Data Migration Analyst - based in Darwin",
+            "JobLocation":"Sydney",
+            "JobCompany":"Harvey Nash",
+            "Search Engine":"Harvey Nash Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.207984,
+               -33.865362
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":23,
+            "JobTitle":"Junior Insights Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Oneflare Pty Ltd",
+            "Search Engine":"Oneflare Pty Ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2037769,
+               -33.8682204
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":24,
+            "JobTitle":"GIS & DATA ANALYST",
+            "JobLocation":"Bunbury & South West",
+            "JobCompany":"Shire of Dardanup",
+            "Search Engine":"Shire of Dardanup Bunbury & South West"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.6396494,
+               -33.325636
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":26,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Sydney Waste Pty Ltd",
+            "Search Engine":"Sydney Waste Pty Ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               150.953436,
+               -33.8384241
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":27,
+            "JobTitle":"Business Data Analyst",
+            "JobLocation":"Perth",
+            "JobCompany":"Compass Group",
+            "Search Engine":"Compass Group Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.8686786,
+               -31.9492549
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":28,
+            "JobTitle":"Multiple Data Analyst - Federal Government",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years!",
+            "Search Engine":"Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years! Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9569084,
+               -37.8162635
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":29,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"face2face Recruitment",
+            "Search Engine":"face2face Recruitment Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.094699,
+               -35.326878
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":30,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Adelaide",
+            "JobCompany":"face2face Recruitment",
+            "Search Engine":"face2face Recruitment Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.094699,
+               -35.326878
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":31,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"onpoint 365",
+            "Search Engine":"onpoint 365 Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.125529,
+               -35.2805652
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":32,
+            "JobTitle":"Procurement Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"FutureYou",
+            "Search Engine":"FutureYou Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2092144,
+               -33.8684303
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":33,
+            "JobTitle":"Operations /Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Credit Corp Group Limited",
+            "Search Engine":"Credit Corp Group Limited Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2036263,
+               -33.86392
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":34,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Peoplebank Australia QLD",
+            "Search Engine":"Peoplebank Australia QLD Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.024968,
+               -27.466811
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":35,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Whizdom",
+            "Search Engine":"Whizdom Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.0914853,
+               -35.2429284
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":36,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Newcastle, Maitland & Hunter",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Newcastle, Maitland & Hunter"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.728559,
+               -32.884454
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":38,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.1968287,
+               -33.8957182
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":40,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Wollongong, Illawarra & South Coast",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Wollongong, Illawarra & South Coast"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               150.9814085,
+               -34.0486647
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":42,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1142344,
+               -35.2748358
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":45,
+            "JobTitle":"Data, Measuring and Evaluation Coordinator - Backbone Team",
+            "JobLocation":"Alice Springs & Central Australia",
+            "JobCompany":"Barkly Regional Council",
+            "Search Engine":"Barkly Regional Council Alice Springs & Central Australia"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               134.1963555,
+               -19.6463678
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":46,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.1319449,
+               -37.9062737
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":48,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"South West Coast VIC",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO South West Coast VIC"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.686679,
+               -37.900838
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":50,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Hobart",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Hobart"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               147.3364614,
+               -42.8863235
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":52,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Perth",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.8853902,
+               -31.9938095
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":54,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Adelaide",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.5895601,
+               -34.921263
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":56,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"CSIRO",
+            "Search Engine":"CSIRO Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.0298091,
+               -27.4946951
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":58,
+            "JobTitle":"Data Analyst, Conduct and Customer Outcomes",
+            "JobLocation":"Sydney",
+            "JobCompany":"Westpac Group",
+            "Search Engine":"Westpac Group Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2064649,
+               -33.8671492
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":59,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Adelaide",
+            "JobCompany":"ZANCOTT Recruitment",
+            "Search Engine":"ZANCOTT Recruitment Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.631236,
+               -34.914103
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":60,
+            "JobTitle":"Support Coordinator - Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Ability Options Ltd",
+            "Search Engine":"Ability Options Ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.0002797,
+               -33.8165832
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":61,
+            "JobTitle":"Advanced Analytics Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Allianz Australia Insurance Ltd",
+            "Search Engine":"Allianz Australia Insurance Ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.204619,
+               -33.870754
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":62,
+            "JobTitle":"Education Data Analyst",
+            "JobLocation":"Cairns & Far North",
+            "JobCompany":"Good to Great Schools Australia Limited",
+            "Search Engine":"Good to Great Schools Australia Limited Cairns & Far North"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.760816,
+               -16.9073246
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":63,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Paxus",
+            "Search Engine":"Paxus Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.0287431,
+               -27.4706393
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":64,
+            "JobTitle":"Data Analyst - Azure",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Sirius Technology Melbourne part of Sirius People Pty Ltd",
+            "Search Engine":"Sirius Technology Melbourne part of Sirius People Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.956633,
+               -37.819843
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":65,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Plenti",
+            "Search Engine":"Plenti Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2082261,
+               -33.867209
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":66,
+            "JobTitle":"Business Information Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Waste Options",
+            "Search Engine":"Waste Options Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               150.88959,
+               -33.790234
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":67,
+            "JobTitle":"Senior Consultant | Data Platforms & Advanced Analytics",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Versor Pty Ltd",
+            "Search Engine":"Versor Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9707533,
+               -37.8317133
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":68,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"99designs",
+            "Search Engine":"99designs Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9912602,
+               -37.8238077
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":69,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Karlka Recruiting Group",
+            "Search Engine":"Karlka Recruiting Group Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.1653199,
+               -27.6539981
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":70,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Adelaide",
+            "JobCompany":"Karlka Recruiting Group",
+            "Search Engine":"Karlka Recruiting Group Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.1653199,
+               -27.6539981
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":72,
+            "JobTitle":"Data Analyst  / Data Scientist",
+            "JobLocation":"Sydney",
+            "JobCompany":"Enterprise IT Resources Pty Ltd",
+            "Search Engine":"Enterprise IT Resources Pty Ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2061489,
+               -33.8648546
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":73,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Perth",
+            "JobCompany":"Verse Group",
+            "Search Engine":"Verse Group Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.855653,
+               -31.9509742
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":74,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Cleanaway Operations Pty Ltd",
+            "Search Engine":"Cleanaway Operations Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9776422,
+               -37.8394424
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":75,
+            "JobTitle":"Finance Data Analyst (SQL) - Banking (Mandarin speaker)",
+            "JobLocation":"Sydney",
+            "JobCompany":"Fitzgerald Jenkins Recruitment",
+            "Search Engine":"Fitzgerald Jenkins Recruitment Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2056228,
+               -33.8670322
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":76,
+            "JobTitle":"Trainee Survey Draftsperson / Spatial Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Balpara",
+            "Search Engine":"Balpara Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.1114199,
+               -37.89831100000001
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":79,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Clicks IT Recruitment (QLD)",
+            "Search Engine":"Clicks IT Recruitment (QLD) Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.027805,
+               -27.4656812
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":80,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Newaim Pty Ltd",
+            "Search Engine":"Newaim Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9302215,
+               -37.8011665
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":81,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"bryco consulting",
+            "Search Engine":"bryco consulting Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9155287,
+               -37.7718015
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":82,
+            "JobTitle":"Data Analyst Merchant Services",
+            "JobLocation":"Sydney",
+            "JobCompany":"Westpac Group",
+            "Search Engine":"Westpac Group Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2064649,
+               -33.8671492
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":83,
+            "JobTitle":"Data Analyst x 2",
+            "JobLocation":"Sydney",
+            "JobCompany":"Sirius Technology Sydney part of Sirius People Pty Ltd",
+            "Search Engine":"Sirius Technology Sydney part of Sirius People Pty Ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2043814,
+               -33.8646632
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":84,
+            "JobTitle":"Strategy and Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Vocus",
+            "Search Engine":"Vocus Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2064748,
+               -33.8391957
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":85,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Motion Recruitment",
+            "Search Engine":"Motion Recruitment Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.210779,
+               -33.885383
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":86,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Department of Education and Training",
+            "Search Engine":"Department of Education and Training Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9761542,
+               -37.739936
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":88,
+            "JobTitle":"Customer Insights & Experience Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Energy Super",
+            "Search Engine":"Energy Super Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.030163,
+               -27.467174
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":90,
+            "JobTitle":"Senior Business/Data Analyst – Regulatory Reporting and Analytics Project",
+            "JobLocation":"Sydney",
+            "JobCompany":"Reserve Bank of Australia",
+            "Search Engine":"Reserve Bank of Australia Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.211975,
+               -33.8680028
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":94,
+            "JobTitle":"Visual Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Recruitment Hive",
+            "Search Engine":"Recruitment Hive ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.2451144,
+               -35.3429461
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":95,
+            "JobTitle":"Lead Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Frankston City Council",
+            "Search Engine":"Frankston City Council Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.1596592,
+               -38.140391
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":97,
+            "JobTitle":"Senior Business Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Treasury Wine Estates Limited",
+            "Search Engine":"Treasury Wine Estates Limited Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9685468,
+               -37.8152634
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":98,
+            "JobTitle":"Meter Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"AusNet Services",
+            "Search Engine":"AusNet Services Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.962359,
+               -37.821577
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":99,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"S2M",
+            "Search Engine":"S2M Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.209358,
+               -33.88638359999999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":101,
+            "JobTitle":"Financial Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Private Advertiser",
+            "Search Engine":"Private Advertiser Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.209303,
+               -33.868364
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":102,
+            "JobTitle":"Data Analyst - Stock/Merchandise Planner",
+            "JobLocation":"Melbourne",
+            "JobCompany":"McKinley Green Pty Ltd",
+            "Search Engine":"McKinley Green Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9628957,
+               -37.8148478
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":103,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Caltex Australia",
+            "Search Engine":"Caltex Australia Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.204143,
+               -33.8706663
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":104,
+            "JobTitle":"R Programmer (Data Analyst)",
+            "JobLocation":"ACT",
+            "JobCompany":"Ignite",
+            "Search Engine":"Ignite ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1462475,
+               -35.3168055
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":105,
+            "JobTitle":"Data Analyst (Google Analytics)",
+            "JobLocation":"Sydney",
+            "JobCompany":"Peoplebank Australia NSW",
+            "Search Engine":"Peoplebank Australia NSW Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.206902,
+               -33.8678583
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":106,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Huxley Associates",
+            "Search Engine":"Huxley Associates Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2045084,
+               -33.8712191
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":107,
+            "JobTitle":"Data Analyst- Commodities and Global Markets",
+            "JobLocation":"Sydney",
+            "JobCompany":"Macquarie Group Limited",
+            "Search Engine":"Macquarie Group Limited Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2077469,
+               -33.8678538
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":108,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Finite IT Recruitment Solutions",
+            "Search Engine":"Finite IT Recruitment Solutions Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.960875,
+               -37.8172829
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":109,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Inspire",
+            "Search Engine":"Inspire Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.002797,
+               -27.4837434
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":110,
+            "JobTitle":"DIGITAL ANALYST",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Shaver Shop Pty Ltd",
+            "Search Engine":"Shaver Shop Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.961853,
+               -37.812196
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":111,
+            "JobTitle":"Reporting & Analytics Lead",
+            "JobLocation":"Adelaide",
+            "JobCompany":"Hays Information Technology",
+            "Search Engine":"Hays Information Technology Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.600375,
+               -34.924499
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":112,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Endeavour Group",
+            "Search Engine":"Endeavour Group Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.1868374,
+               -33.9288745
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":113,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Peoplebank Australia VIC",
+            "Search Engine":"Peoplebank Australia VIC Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9568143,
+               -37.81574579999999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":114,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Launceston & North East",
+            "JobCompany":"City of Launceston",
+            "Search Engine":"City of Launceston Launceston & North East"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               147.1440875,
+               -41.43322149999999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":116,
+            "JobTitle":"Data Analyst - VPS 4 - 6 weeks contract",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Hays Information Technology",
+            "Search Engine":"Hays Information Technology Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.977535,
+               -37.839099
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":118,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Leidos Australia Pty Ltd",
+            "Search Engine":"Leidos Australia Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.2204039,
+               -37.913722
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":119,
+            "JobTitle":"Data Analyst (SQL/Excel)",
+            "JobLocation":"Sydney",
+            "JobCompany":"Robert Half Technology",
+            "Search Engine":"Robert Half Technology Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2066082,
+               -33.8687233
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":120,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Perth",
+            "JobCompany":"WorkPac - Western Australia",
+            "Search Engine":"WorkPac - Western Australia Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.8379158,
+               -31.9494975
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":121,
+            "JobTitle":"Technical Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Bluefin Resources Pty Limited",
+            "Search Engine":"Bluefin Resources Pty Limited Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2079552,
+               -33.8649484
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":122,
+            "JobTitle":"Channel Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"AIA Australia Limited",
+            "Search Engine":"AIA Australia Limited Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2067826,
+               -33.8678548
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":123,
+            "JobTitle":"Practice Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"AMP Services Limited",
+            "Search Engine":"AMP Services Limited Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2244514,
+               -33.9445604
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":124,
+            "JobTitle":"IT Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"onpoint 365",
+            "Search Engine":"onpoint 365 ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.125529,
+               -35.2805652
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":126,
+            "JobTitle":"IT Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Ignite",
+            "Search Engine":"Ignite ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1462475,
+               -35.3168055
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":128,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"MTP Services",
+            "Search Engine":"MTP Services ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1672246,
+               -35.3247554
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":129,
+            "JobTitle":"Data Analyst - Modelling",
+            "JobLocation":"Newcastle, Maitland & Hunter",
+            "JobCompany":"GWG Partners",
+            "Search Engine":"GWG Partners Newcastle, Maitland & Hunter"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.770752,
+               -32.9320282
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":130,
+            "JobTitle":"Data Analyst - Modelling",
+            "JobLocation":"Sydney",
+            "JobCompany":"GWG Partners",
+            "Search Engine":"GWG Partners Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.770752,
+               -32.9320282
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":132,
+            "JobTitle":"Systems Analyst Developer",
+            "JobLocation":"Brisbane",
+            "JobCompany":"MinterEllison",
+            "Search Engine":"MinterEllison Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.030586,
+               -27.470162
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":134,
+            "JobTitle":"Data Analyst - R/SQL/Excel - Senior",
+            "JobLocation":"Sydney",
+            "JobCompany":"Huxley Associates",
+            "Search Engine":"Huxley Associates Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2045084,
+               -33.8712191
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":135,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Macquarie Group Limited",
+            "Search Engine":"Macquarie Group Limited Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2077469,
+               -33.8678538
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":136,
+            "JobTitle":"IT Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Whizdom",
+            "Search Engine":"Whizdom ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.0914853,
+               -35.2429284
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":137,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Hudson - Project Services",
+            "Search Engine":"Hudson - Project Services ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1279799,
+               -35.2758978
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":138,
+            "JobTitle":"Senior Healthcare Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"icare",
+            "Search Engine":"icare Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2039031,
+               -33.867733
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":139,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Hays Information Technology",
+            "Search Engine":"Hays Information Technology ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1270574,
+               -35.27586429999999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":140,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Perigon Group Pty Limited",
+            "Search Engine":"Perigon Group Pty Limited Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.0278713,
+               -27.4671957
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":141,
+            "JobTitle":"Behaviour Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Irabina Autism Services",
+            "Search Engine":"Irabina Autism Services Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.2704315,
+               -37.8194084
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":142,
+            "JobTitle":"Warehouse Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Caterpillar of Australia",
+            "Search Engine":"Caterpillar of Australia Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.8860434,
+               -37.7091528
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":146,
+            "JobTitle":"Digital Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Aurec",
+            "Search Engine":"Aurec Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2081514,
+               -33.863379
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":147,
+            "JobTitle":"Database Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Talent Street",
+            "Search Engine":"Talent Street Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.209489,
+               -33.8737147
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":148,
+            "JobTitle":"Data Analysts (Multiple) - Brisbane, Adelaide & Newcastle",
+            "JobLocation":"Brisbane",
+            "JobCompany":"MTP Services",
+            "Search Engine":"MTP Services Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1672246,
+               -35.3247554
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":149,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years!",
+            "Search Engine":"Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years! Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2062469,
+               -33.8696669
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":150,
+            "JobTitle":"Data Insights/Strategy Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Talent Connect Australia",
+            "Search Engine":"Talent Connect Australia Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.209464,
+               -33.8646363
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":151,
+            "JobTitle":"Data Analyst - Delivery & Fulfillment",
+            "JobLocation":"Sydney",
+            "JobCompany":"Endeavour Group",
+            "Search Engine":"Endeavour Group Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.1868374,
+               -33.9288745
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":152,
+            "JobTitle":"Senior Developer",
+            "JobLocation":"Blue Mountains & Central West",
+            "JobCompany":"The Department of Customer Service",
+            "Search Engine":"The Department of Customer Service Blue Mountains & Central West"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               150.3210515,
+               -33.7048744
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":153,
+            "JobTitle":"Data Analyst - Instore Digital",
+            "JobLocation":"Sydney",
+            "JobCompany":"Endeavour Group",
+            "Search Engine":"Endeavour Group Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.1868374,
+               -33.9288745
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":155,
+            "JobTitle":"Data Scientist (3 days per week initially)",
+            "JobLocation":"Melbourne",
+            "JobCompany":"St Vincent's Institute of Medical Research",
+            "Search Engine":"St Vincent's Institute of Medical Research Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9739623,
+               -37.806671
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":156,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Adactin Group Pty. Ltd.",
+            "Search Engine":"Adactin Group Pty. Ltd. ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.004916,
+               -33.8134918
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":157,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Catch Group Pty Ltd",
+            "Search Engine":"Catch Group Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.0617753,
+               -37.9083946
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":158,
+            "JobTitle":"Data Analyst - (Salesforce Effectiveness)",
+            "JobLocation":"Sydney",
+            "JobCompany":"The iQ Group Global",
+            "Search Engine":"The iQ Group Global Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2094409,
+               -33.8698949
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":159,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Adelaide",
+            "JobCompany":"ASC",
+            "Search Engine":"ASC Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.5103518,
+               -34.7830162
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":160,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Randstad - Commercial",
+            "Search Engine":"Randstad - Commercial Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.8928074,
+               -37.7267047
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":161,
+            "JobTitle":"Data Analyst - Digital",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Catch Group Pty Ltd",
+            "Search Engine":"Catch Group Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.0617753,
+               -37.9083946
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":162,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Peoplebank Australia ACT",
+            "Search Engine":"Peoplebank Australia ACT ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.128305,
+               -35.277428
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":165,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"M&T Resources",
+            "Search Engine":"M&T Resources Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.0924807,
+               -35.457536
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":166,
+            "JobTitle":"Salesforce / Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"iknowho pty ltd",
+            "Search Engine":"iknowho pty ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2056462,
+               -33.8376075
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":167,
+            "JobTitle":"Data Analyst (APS5, APS6, EL1)",
+            "JobLocation":"ACT",
+            "JobCompany":"On Q Recruitment Pty Ltd",
+            "Search Engine":"On Q Recruitment Pty Ltd ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1338219,
+               -35.272575
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":170,
+            "JobTitle":"APS4 Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Hays Office Support",
+            "Search Engine":"Hays Office Support ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1270574,
+               -35.27586429999999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":171,
+            "JobTitle":"BI Developer",
+            "JobLocation":"Sydney",
+            "JobCompany":"Clicks IT Recruitment",
+            "Search Engine":"Clicks IT Recruitment Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2044793,
+               -33.8649488
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":172,
+            "JobTitle":"Master Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Peoplebank Australia NSW",
+            "Search Engine":"Peoplebank Australia NSW Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.206902,
+               -33.8678583
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":173,
+            "JobTitle":"Data Analyst - Retail Banking",
+            "JobLocation":"Sydney",
+            "JobCompany":"TL Consulting Group",
+            "Search Engine":"TL Consulting Group Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2082261,
+               -33.867209
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":176,
+            "JobTitle":"GIS/Database Geologist",
+            "JobLocation":"Perth",
+            "JobCompany":"S2 Resources Ltd",
+            "Search Engine":"S2 Resources Ltd Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.7566875,
+               -31.8924382
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":177,
+            "JobTitle":"Assistant Research Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"BPA Analytics",
+            "Search Engine":"BPA Analytics Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.0280493,
+               -27.4698682
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":179,
+            "JobTitle":"Business Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years!",
+            "Search Engine":"Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years! Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9569084,
+               -37.8162635
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":180,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Netwealth Investments Limited",
+            "Search Engine":"Netwealth Investments Limited Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.971868,
+               -37.8135921
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":181,
+            "JobTitle":"Senior Actuarial Data Analyst - Life Insurance",
+            "JobLocation":"Sydney",
+            "JobCompany":"Ethos BeathChapman",
+            "Search Engine":"Ethos BeathChapman Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2065104,
+               -33.8640033
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":182,
+            "JobTitle":"Retail Data Analyst - SQL, PowerBI, Tableau or Qlik!",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Talent Insights Group Pty Ltd",
+            "Search Engine":"Talent Insights Group Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.206584,
+               -33.8663251
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":187,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Davidson Technology",
+            "Search Engine":"Davidson Technology Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.957484,
+               -37.817613
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":188,
+            "JobTitle":"Data & Business Analyst - Sales",
+            "JobLocation":"Sydney",
+            "JobCompany":"SALT SEARCH PTY LTD",
+            "Search Engine":"SALT SEARCH PTY LTD Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2047709,
+               -33.8686113
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":189,
+            "JobTitle":"Junior Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Mansell Taylor Consulting",
+            "Search Engine":"Mansell Taylor Consulting Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.029216,
+               -27.4669999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":191,
+            "JobTitle":"HR Reporting and Data Analyst",
+            "JobLocation":"Adelaide",
+            "JobCompany":"Serco Asia Pacific",
+            "Search Engine":"Serco Asia Pacific Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2067581,
+               -33.864726
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":192,
+            "JobTitle":"Start your new career as a Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"The Data School Pty Ltd",
+            "Search Engine":"The Data School Pty Ltd Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2078145,
+               -33.8655917
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":193,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Perth",
+            "JobCompany":"Michael Page Information Technology",
+            "Search Engine":"Michael Page Information Technology Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.8542388,
+               -31.9545626
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":194,
+            "JobTitle":"Reporting Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"FourQuarters Recruitment",
+            "Search Engine":"FourQuarters Recruitment Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.9556212,
+               -37.8191169
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":196,
+            "JobTitle":"Statistical Data Analysts",
+            "JobLocation":"ACT",
+            "JobCompany":"Australian Bureau of Statistics",
+            "Search Engine":"Australian Bureau of Statistics ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.068061,
+               -35.240611
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":198,
+            "JobTitle":"Technical Lead",
+            "JobLocation":"Sydney",
+            "JobCompany":"SAI Global",
+            "Search Engine":"SAI Global Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.206218,
+               -33.877464
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":200,
+            "JobTitle":"Statistical Data Analysts",
+            "JobLocation":"Adelaide",
+            "JobCompany":"Australian Bureau of Statistics",
+            "Search Engine":"Australian Bureau of Statistics Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.598763,
+               -34.925938
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":202,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Agile Talent",
+            "Search Engine":"Agile Talent Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2099244,
+               -33.8797834
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":203,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Adelaide",
+            "JobCompany":"CENTORRINO TECHNOLOGIES PTY LTD",
+            "Search Engine":"CENTORRINO TECHNOLOGIES PTY LTD Adelaide"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               138.6034022,
+               -34.9259462
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":204,
+            "JobTitle":"Business Intelligence / Data Analyst",
+            "JobLocation":"ACT",
+            "JobCompany":"Green Light PS Pty Ltd",
+            "Search Engine":"Green Light PS Pty Ltd ACT"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               149.1246558,
+               -35.284844
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":205,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"SALT SEARCH PTY LTD",
+            "Search Engine":"SALT SEARCH PTY LTD Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2047709,
+               -33.8686113
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":206,
+            "JobTitle":"BI Analyst",
+            "JobLocation":"Perth",
+            "JobCompany":"Professional Search Group",
+            "Search Engine":"Professional Search Group Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.8536303,
+               -31.9533815
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":208,
+            "JobTitle":"Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Healthcare Professionals Group",
+            "Search Engine":"Healthcare Professionals Group Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2101734,
+               -33.8688551
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":209,
+            "JobTitle":"Graduate Estate Data Analyst",
+            "JobLocation":"Melbourne",
+            "JobCompany":"Broadspectrum (Australia) Pty Ltd",
+            "Search Engine":"Broadspectrum (Australia) Pty Ltd Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.979362,
+               -37.844103
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":210,
+            "JobTitle":"Senior Data Analyst",
+            "JobLocation":"Brisbane",
+            "JobCompany":"Bluefin Resources Pty Limited",
+            "Search Engine":"Bluefin Resources Pty Limited Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2079552,
+               -33.8649484
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":211,
+            "JobTitle":"Data Insights Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Freedom Foods Group Limited",
+            "Search Engine":"Freedom Foods Group Limited Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.1171151,
+               -34.0243296
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":212,
+            "JobTitle":"Investment Data Analyst",
+            "JobLocation":"Sydney",
+            "JobCompany":"Kapital Consulting",
+            "Search Engine":"Kapital Consulting Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2098204,
+               -33.86584819999999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":213,
+            "JobTitle":"Database & SQL Programmer",
+            "JobLocation":"Brisbane",
+            "JobCompany":"NOVA Partners",
+            "Search Engine":"NOVA Partners Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2081817,
+               -33.8664694
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":214,
+            "JobTitle":"GIS and Data analyst",
+            "JobLocation":"Perth",
+            "JobCompany":"Aurecon",
+            "Search Engine":"Aurecon Perth"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.8541227,
+               -31.9517122
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":215,
+            "JobTitle":"Data Analyst/ Engineer",
+            "JobLocation":"Sydney",
+            "JobCompany":"T+O+M Executive",
+            "Search Engine":"T+O+M Executive Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.2096189,
+               -33.8738175
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":217,
+            "JobTitle":"IT Professionals - Expression of Interest",
+            "JobLocation":"Sydney",
+            "JobCompany":"First Grade Recruitment",
+            "Search Engine":"First Grade Recruitment Sydney"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.0421005,
+               -27.4812498
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":218,
+            "JobTitle":"IT Professionals - Expression of Interest",
+            "JobLocation":"Melbourne",
+            "JobCompany":"First Grade Recruitment",
+            "Search Engine":"First Grade Recruitment Melbourne"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.917643,
+               -37.82283
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "":219,
+            "JobTitle":"IT Professionals - Expression of Interest",
+            "JobLocation":"Brisbane",
+            "JobCompany":"First Grade Recruitment",
+            "Search Engine":"First Grade Recruitment Brisbane"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               153.0421005,
+               -27.4812498
+            ]
+         }
+      }
+   ]
+}
